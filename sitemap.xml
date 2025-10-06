@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.openaijiaocheng.com/gpt-plus-pulse</loc>
+    
+    <lastmod>2025-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.openaijiaocheng.com/gpt-plus-back-to-gpt-4o</loc>
     
     <lastmod>2025-09-25</lastmod>
@@ -272,7 +281,28 @@
 
   
   <url>
+    <loc>https://www.openaijiaocheng.com/tags/GPT4o/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.openaijiaocheng.com/tags/GPT5/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.openaijiaocheng.com/tags/pulse/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.openaijiaocheng.com/tags/GPT4o-mini/</loc>
     <lastmod>2025-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -286,21 +316,7 @@
   </url>
   
   <url>
-    <loc>https://www.openaijiaocheng.com/tags/GPT4o/</loc>
-    <lastmod>2025-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.openaijiaocheng.com/tags/OpenAI-API/</loc>
-    <lastmod>2025-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openaijiaocheng.com/tags/GPT4o-mini/</loc>
     <lastmod>2025-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -328,14 +344,14 @@
   </url>
   
   <url>
-    <loc>https://www.openaijiaocheng.com/tags/OpenAI-o1/</loc>
+    <loc>https://www.openaijiaocheng.com/tags/ChatGPT-Plus/</loc>
     <lastmod>2025-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.openaijiaocheng.com/tags/ChatGPT-Plus/</loc>
+    <loc>https://www.openaijiaocheng.com/tags/OpenAI-o1/</loc>
     <lastmod>2025-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -349,14 +365,14 @@
   </url>
   
   <url>
-    <loc>https://www.openaijiaocheng.com/tags/%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1/</loc>
+    <loc>https://www.openaijiaocheng.com/tags/Patreon/</loc>
     <lastmod>2025-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.openaijiaocheng.com/tags/Patreon/</loc>
+    <loc>https://www.openaijiaocheng.com/tags/%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1/</loc>
     <lastmod>2025-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
